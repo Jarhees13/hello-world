@@ -1,2 +1,2 @@
 # hello-world
-hello world, sets to set up.
+Hi, my name is Jared Voorhees and I am a ITD student at OSUit
